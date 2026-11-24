@@ -1,0 +1,1 @@
+{"description":"A 5-7-5 haiku about debugging, written to /output/entry.txt","license":"MIT","name":"haiku-debugging","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
